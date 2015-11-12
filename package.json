@@ -1,0 +1,12 @@
+{
+  "name": "mc-property-tests",
+  "version": "1.0.0",
+  "description": "Property-based testing intro",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "jsverify": "0.7.x",
+    "mocha": "2.3.x"
+  }
+}
